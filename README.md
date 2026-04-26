@@ -31,14 +31,12 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kalilinux&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat&logoColor=white) ![Web Security](https://img.shields.io/badge/Web_Security-000000?style=flat&logo=hackthebox&logoColor=green)
 
 ---
-
-# GitHub Stats:
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vanshikaa9&show_icons=true&theme=rose&hide_border=false&include_all_commits=true" height="160"/>
   <img src="https://streak-stats.demolab.com?user=vanshikaa9&theme=rose&hide_border=false" height="160"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanshikaa9&layout=compact&theme=rose&hide_border=false" height="160"/>
 </p>
-
 ---
 
