@@ -62,10 +62,4 @@
 
 ---
 
-## GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vanshikaa9&show_icons=true&theme=rose&hide_border=false&include_all_commits=true" height="160"/>
-  <img src="https://streak-stats.demolab.com?user=vanshikaa9&theme=rose&hide_border=false" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanshikaa9&layout=compact&theme=rose&hide_border=false" height="160"/>
-</p>
