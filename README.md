@@ -1,18 +1,19 @@
 # About Me ♡
 
-⟢ CS student building full-stack and AI-powered applications with a focus on structured systems, backend architecture, and product-driven development.  
+⟢ Half builder, half breaker. Fully engineer.
+
+⟢ CS student building full-stack and AI-powered applications with a focus on structured systems, backend architecture, and product-driven development.
 
 ⟢ Currently exploring:
+- SDET / QA and test automation
+- cybersecurity and web application security
 - full-stack engineering
 - AI integrations and LLM workflows
-- data science & machine learning
-- cybersecurity and web security fundamentals
 
 ⟢ Recently built:
-- Compensation Intelligence System inspired by Levels.fyi
-- AI-powered finance and prediction tools
-- web security and cryptography projects
-- React + API-driven applications
+- **Bayaan** — a multilingual, voice-first AI shopping assistant for Tier 2/3 Bharat, with a Groq-powered agentic NLP pipeline and a Flask backend
+- **DealDash** — a React + TypeScript coupon discovery app
+- **CompIntel** —  A Compensation Intelligence System, a salary intelligence platform inspired by Levels.fyi
 
 ⟢ Interested in building systems that are:
 - structured
@@ -20,15 +21,14 @@
 - useful
 - decision-oriented
 
-⟢ I enjoy understanding how systems work internally from backend flows and databases to debugging, security edge cases, and deployment pipelines.
+⟢ I enjoy understanding how systems work internally — from backend flows and databases to debugging, security edge cases, and deployment pipelines.
 
 ---
 
 ## Socials
-
-[Instagram](https://instagram.com/va.nshikaa)  
-[LinkedIn](https://linkedin.com/in/vanshika-mishra-43a197329/)  
-[Pinterest](https://pinterest.com/itxveee)  
+[Instagram](https://instagram.com/va.nshikaa)
+[LinkedIn](https://linkedin.com/in/vanshika-mishra-43a197329/)
+[Pinterest](https://pinterest.com/itxveee)
 [Email](mailto:vanshikaa974@gmail.com)
 
 ---
@@ -38,6 +38,7 @@
 ## Languages & Frameworks
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
@@ -59,7 +60,6 @@
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kalilinux&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
 
 ---
-
-
