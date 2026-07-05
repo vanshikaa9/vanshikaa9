@@ -11,9 +11,9 @@
 - AI integrations and LLM workflows
 
 ⟢ Recently built:
-- **Bayaan** — a multilingual, voice-first AI shopping assistant for Tier 2/3 Bharat, with a Groq-powered agentic NLP pipeline and a Flask backend
-- **DealDash** — a React + TypeScript coupon discovery app
-- **CompIntel** —  A Compensation Intelligence System, a salary intelligence platform inspired by Levels.fyi
+- **Bayaan** — a multilingual voice-first AI shopping assistant for Tier 2/3 Bharat featuring speech recognition, Groq-powered agentic workflows, intent extraction, product search, and multilingual responses through a Flask backend.
+- **DealDash** — Coupon aggregation platform built with React and TypeScript featuring search, filtering, merchant categorization, and responsive UI.
+- **CompIntel** —  Compensation Intelligence System that aggregates salary submissions, validates entries, and visualizes compensation insights through interactive dashboards.
 
 ⟢ Interested in building systems that are:
 - structured
@@ -61,5 +61,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
+
+![](https://komarev.com/ghpvc/?username=vanshikaa9&label=Profile%20Views&color=blue&style=flat-square)
 
 ---
